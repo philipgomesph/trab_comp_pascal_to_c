@@ -1,0 +1,10 @@
+compiladores\reconhecedor\Classe.class
+compiladores\reconhecedor\TabelaSimbolos.class
+compiladores\reconhecedor\Registro.class
+compiladores\reconhecedor\AnalisadorLexico.class
+compiladores\reconhecedor\App.class
+compiladores\reconhecedor\Tipo.class
+compiladores\reconhecedor\Token.class
+compiladores\reconhecedor\Categoria.class
+compiladores\reconhecedor\Valor.class
+compiladores\reconhecedor\AnalisadorSintatico.class
